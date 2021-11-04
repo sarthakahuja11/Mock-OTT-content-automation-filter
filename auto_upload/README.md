@@ -1,9 +1,8 @@
 
 
-# selenium-instagram-uploader
+# OTT-platform-content-upload-automation
 
-Script to upload an image to instagram with desired text using browser and desktop automation. Currently only for linux. For windows you check this [script](https://paste.ubuntu.com/p/mxyYmBpryK/).
-
+These python scripts automate the upload pipeline for video content on the OTT platform after choosing the correct thumbnails, labels, descriptions, and other metadata.
 
 Required libraries can be installed automatically by running **requirements.py** file but here is a list of individual requirements:
 
